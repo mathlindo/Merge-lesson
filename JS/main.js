@@ -1,5 +1,6 @@
 cumprimento()
 
 function cumprimento() {
-    alert("Olá Deus, o que gostaria?");
+    var nome + prompt("Digite seu nome");
+    alert("Olá "+nome);
 }
